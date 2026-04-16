@@ -19,12 +19,9 @@ html_static_path = ['_static']
 html_css_files = ['custom.css']
 
 html_theme_options = {
+    "default_mode": "light",
     "light_css_variables": {
         "color-brand-primary": "#000000",
         "color-brand-content": "#000000",
-    },
-    "dark_css_variables": {
-        "color-brand-primary": "#ffffff",
-        "color-brand-content": "#ffffff",
     },
 }
