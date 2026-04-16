@@ -30,6 +30,8 @@ Wie viele Ressourcen die Nutzenden verwenden dürfen hängt davon ab, welcher Gr
 | `ai-research` | Maximale Joblänge: 24h, Maximale Anzahl an gleichzeitigen Jobs: 1, Erlaubte GPU-Typen: `rtx_pro_6000` |
 | `external` | Maximale Joblänge: 12h, Maximale Anzahl an gleichzeitigen Jobs: 1, Erlaubte GPU-Typen: `rtx_pro_6000` |
 
+Standardmäßig laufen alle Accounts in der Gruppe `ai-research`, da die RTX 6000 PRO für die meisten Aufgaben ausreichend sind. Mitgliedschaft in der `llm-research` Gruppe kann per E-Mail (steffen.ottow@tu-clausthal.de) unter kurzer Begründung weshalb die RTX 6000 PRO nicht ausreichend sind, für einen maximalen Zeitraum von 21 Tagen beantragt werden.
+
 ### Partitionen
 Partitionen sind Gruppen von Nodes. Sie werden verwendet, um Nodes und Jobs zu sortieren. Bei uns gibt es die folgenden Partitionen
 
