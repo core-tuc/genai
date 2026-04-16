@@ -1,4 +1,4 @@
-project = 'GenAI Slurm Doku'
+project = 'CORE GenAI-Cluster Dokumentation'
 copyright = '2025, DIGIT TU Clausthal'
 author = 'DIGIT TU Clausthal'
 
