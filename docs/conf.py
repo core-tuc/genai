@@ -17,9 +17,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'furo'
 html_static_path = ['_static']
 html_css_files = ['custom.css']
+html_js_files = ['disable-dark-mode.js']
 
 html_theme_options = {
-    "default_mode": "light",
     "light_css_variables": {
         "color-brand-primary": "#000000",
         "color-brand-content": "#000000",
