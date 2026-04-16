@@ -1,7 +1,7 @@
 # CORE GenAI-Cluster Dokumentation
 ## Allgemeines
 ### Der Cluster
-Der GenAI Cluster des DIGIT besteht aus fünf Nodes.
+Der GenAI Cluster besteht aus fünf Nodes.
 
 ![Cluster Struktur](_static/structure.png)
 
